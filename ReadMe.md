@@ -42,3 +42,27 @@ A Layout of the lesson plans for the month
 ---
 
 ## Week 3 - Fullstack & Exam Prep
+
+- Mon
+  - [js-MERN-fullstack-CR-outline.md](../js/MERN/js-MERN-fullstack-CR-outline.md)
+  - [js-MERN-fullstack-UD-outline.md](../js/MERN/js-MERN-fullstack-UD-outline.md)
+  - [js-MERN-fullstack-validations-outline.md](../js/MERN/js-MERN-fullstack-validations-outline.md)
+- Tue and remaining days
+  - Rebuild the previously finished full-stack project but with a different model, copying the backend CRUD and renaming things to save time and show students how they can reuse their back-end code to save time on the exam.
+
+---
+
+## Week 4 - Projects
+
+- [Project Prompt & Generic Project Resources](https://docs.google.com/document/d/1g6r-FxPLJrBhdX_TLCPWKjYr0VPnsgQ11_jqhDhUnbM/edit)
+
+---
+
+## Additional Resources
+
+- [Assignment Solutions](../assignments/MERN)
+- [Login Reg](../js/MERN/js-MERN-fullstack-login-reg.md)
+  - TODO: Still uses reach router.
+- [Sockets](../js/MERN/sockets)
+  - TODO: needs updating.
+- [Advanced Extras](../js/react/functional-components/advanced/)
