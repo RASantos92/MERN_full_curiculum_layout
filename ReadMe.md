@@ -44,9 +44,9 @@ A Layout of the lesson plans for the month
 ## Week 3 - Fullstack & Exam Prep
 
 - Mon
-  - [js-MERN-fullstack-CR-outline.md](../js/MERN/js-MERN-fullstack-CR-outline.md)
-  - [js-MERN-fullstack-UD-outline.md](../js/MERN/js-MERN-fullstack-UD-outline.md)
-  - [js-MERN-fullstack-validations-outline.md](../js/MERN/js-MERN-fullstack-validations-outline.md)
+  - [js-MERN-fullstack-CR-outline.md](https://github.com/RASantos92/MERN_instructor_assingments/blob/master/lesson_plans/week_three/mondayMorning.md)
+  - [js-MERN-fullstack-UD-outline.md](https://github.com/RASantos92/MERN_instructor_assingments/blob/master/lesson_plans/week_three/mondayAfternoonPt1.md)
+  - [js-MERN-fullstack-validations-outline.md](https://github.com/RASantos92/MERN_instructor_assingments/blob/master/lesson_plans/week_three/mondayAfternoonPt2.md)
 - Tue and remaining days
   - Rebuild the previously finished full-stack project but with a different model, copying the backend CRUD and renaming things to save time and show students how they can reuse their back-end code to save time on the exam.
 
